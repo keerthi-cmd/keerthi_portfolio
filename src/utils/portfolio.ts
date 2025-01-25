@@ -220,7 +220,7 @@ export const projectsSection: ProjectsSectionType = {
       name: "Netflix GPT",
       url: "https://netflix-1890b.web.app/",
       repo: "https://github.com/keerthi-cmd/",
-      img: "/netflix.png",
+      img: "/netflix.jpg",
       year: 2025,
       tags: ["React", "Redux", "Tailwind"],
     },
