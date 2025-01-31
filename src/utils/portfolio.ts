@@ -224,6 +224,15 @@ export const projectsSection: ProjectsSectionType = {
       year: 2025,
       tags: ["React", "Redux", "Tailwind"],
     },
+    {
+      id: getId(),
+      name: "You Tube",
+      url: "https://react-a7a2a.web.app/",
+      repo: "https://github.com/keerthi-cmd/",
+      img: "/youtube.JPG",
+      year: 2025,
+      tags: ["React", "Redux", "Tailwind", "YouTube API"],
+    },
   ],
 };
 
